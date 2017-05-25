@@ -2,6 +2,7 @@
   =====================
 
 #Installation de Brackets + packages:
+
 	*Autosave every edit!
 	*Beautify
 	*Color Hints
