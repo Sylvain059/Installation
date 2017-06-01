@@ -23,10 +23,16 @@
 	*Slack
 	*Google Chrome
 	*Zsh & Oh-my-Zsh + personnalisation du fichier .zshrc ajout du thème refined.
+	*Syntax highlight pour zsh.
 	*Flatabulous theme & arc theme icon.
 
 #Distribution XFCE:
 
 	*Antergos
 	*Manjaro
+
+#Logiciel USB Boot:
+
+	*MultiBootUSB-8.8.0.
+
 
